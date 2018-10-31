@@ -1,0 +1,15 @@
+ul.nav li{
+  background-color: red;
+}
+ul.nav li a{
+  color: white;
+  text-decoration: underline;
+}
+
+h1{
+  size: 200px;
+}
+
+#about_blue{
+  background-color: lightblue
+}
